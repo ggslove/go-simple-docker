@@ -17,6 +17,7 @@ go.work
 
 # Dependency directories
 vendor/
+.crossnote/
 
 # IDE
 .vscode/
@@ -24,3 +25,4 @@ vendor/
 *.swp
 *.swo
 *~
+
